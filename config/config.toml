@@ -1,0 +1,10 @@
+[logconfig]
+logger = "logrus"
+level = "info"
+
+[traceconfig]
+host = "localhost"
+port = "6831"
+servicename = "gbs"
+type = "const"
+param = 1
